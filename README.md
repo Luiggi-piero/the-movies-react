@@ -4,6 +4,13 @@
 - React
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Vistas
+![1](https://user-images.githubusercontent.com/86317658/191420594-948acb3d-e6e7-4cce-b847-8bc2c24e37d8.png)
+
+![2](https://user-images.githubusercontent.com/86317658/191420602-5e6e4c19-5299-45b7-ad96-e0b813300711.png)
+
+![3](https://user-images.githubusercontent.com/86317658/191420605-c6877a02-e444-4166-a6db-892b68808b9a.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
