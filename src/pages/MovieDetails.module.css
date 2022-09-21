@@ -1,0 +1,25 @@
+.detailsWrap{
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col{
+    max-width: 400px;
+    margin: 15px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.firstP{
+    margin-top: 0;
+}
+
+@media screen and (max-width: 750px){
+    .col{
+        max-width: 250px;
+    }
+}

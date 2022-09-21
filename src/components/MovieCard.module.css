@@ -1,0 +1,26 @@
+.movieCard{
+    color: #fff;
+    text-align: center;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.movieCard:hover{
+    opacity: 0.7;
+}
+
+.image{
+    border-radius: 10px;
+    background: azure;
+}
+
+.title{
+    color: #fff;
+}
+
+@media screen and (max-width: 750px) {
+    .image{
+        width: 90%; 
+        height: auto;
+    }
+}
